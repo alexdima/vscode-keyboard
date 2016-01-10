@@ -1,7 +1,7 @@
 # OS key mapping node module [![Build Status](https://travis-ci.org/alexandrudima/vscode-keyboard.svg?branch=master)](https://travis-ci.org/alexandrudima/vscode-keyboard)
 Returns what characters are produced by pressing keys with different modifiers on the current system keyboard layout.
 
-# Please note the new repository location: (https://github.com/Microsoft/node-native-keymap)[https://github.com/Microsoft/node-native-keymap]
+# Please note the new repository location: https://github.com/Microsoft/node-native-keymap
 
 ## Installing
 
